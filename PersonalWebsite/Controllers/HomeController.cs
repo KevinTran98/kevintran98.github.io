@@ -29,14 +29,14 @@ namespace PersonalWebsite.Controllers
 
         public ActionResult SkillSet()
         {
-            ViewBag.Message = "Skills I have gathered over the years."
+            ViewBag.Message = "Skills I have gathered over the years.";
             
             return View();
         }
 
         public ActionResult Employment()
         {
-            ViewBag.Message = "Employment History"
+            ViewBag.Message = "Employment History";
             
             return View();
         }

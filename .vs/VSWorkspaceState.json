@@ -3,8 +3,9 @@
     "",
     "\\PersonalWebsite",
     "\\PersonalWebsite\\Controllers",
-    "\\PersonalWebsite\\Views"
+    "\\PersonalWebsite\\Models",
+    "\\PersonalWebsite\\Views",
+    "\\PersonalWebsite\\Views\\Home"
   ],
-  "SelectedNode": "\\PersonalWebsite\\PersonalWebsite.csproj",
   "PreviewInSolutionExplorer": false
 }
